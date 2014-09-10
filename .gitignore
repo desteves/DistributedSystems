@@ -1,36 +1,27 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 
-# Folder config file
-Desktop.ini
+Assignment1ProcessMigration.zip
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+Assignment1ProcessMigration/us-500.csv
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
+RandyMI/.classpath
 
 .DS_Store
-.AppleDouble
-.LSOverride
 
-# Icon must ends with two \r.
-Icon
+DonKeyFS/src/edu/cmu/ds/donkeyfs/DFSRequestListener.java
 
-# Thumbnails
-._*
+DonKeyFS/src/edu/cmu/ds/donkeyfs/NodeListener.java
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+DonKeyFS/src/edu/cmu/ds/donkeyfs/NameNode.java
+*.classpath
+MonKeyMR/.classpath
+*.classpath
+MonKeyMR/.classpath
+MonKeyMR/masterconfig.properties
+DonKeyFS/config.properties
+*.classpath
+MonKeyMR/.classpath
+MonKeyMR/.classpath
+MonKeyMR/.classpath
+MonKeyMR/masterconfig.properties
+MonKeyMR/.classpath
+MonKeyMR/.classpath
